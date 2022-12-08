@@ -1,10 +1,3 @@
----
-layout: page
-title: Guglielmo Gattiglio's Research Webpage
-tagline: Guglielmo Gattiglio's Research Webpage
-description: Guglielmo Gattiglio's Research Webpage
----
-
 # Guglielmo Gattiglio
 
 
@@ -41,7 +34,7 @@ The most recent version of my CV is available [here](https://guglielmogattiglio.
     </tr>
   </tbody>
 </table>
-<div/>
+</div>
 
 
 

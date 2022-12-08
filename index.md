@@ -52,7 +52,7 @@ The most recent version of my CV is available [here](https://guglielmogattiglio.
 
 ### Presentations
 
-- [Generating Stochastic Processes using Echo State Networks and Maximum Mean Discrepancy](assets/misc/Lyudmila_sept_2022.pdf) - 14 December 2022 - a poster for the [AS&RU Partnership Day]([Partnership Day 2022 (warwick.ac.uk)](https://warwick.ac.uk/fac/sci/statistics/asru/registration-page-2022n/))  at the University of Warwick.
+- [Generating Stochastic Processes using Echo State Networks and Maximum Mean Discrepancy](assets/misc/Lyudmila_sept_2022.pdf) - 14 December 2022 - a poster for the [AS&RU Partnership Day](https://warwick.ac.uk/fac/sci/statistics/asru/registration-page-2022n/)  at the University of Warwick.
 
 - [Generating Stochastic Processes using Echo State Networks and Maximum Mean Discrepancy](assets/misc/Lyudmila_sept_2022.pdf) - 25 October 2022 - a poster for the [Young Researchers Meeting (YRM)](https://warwick.ac.uk/fac/sci/statistics/news/yrm/)  at the University of Warwick.
 

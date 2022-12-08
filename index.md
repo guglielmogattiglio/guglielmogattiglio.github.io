@@ -1,72 +1,95 @@
 ---
 layout: page
-title: simple site
-tagline: Easy websites with GitHub Pages
-description: Minimal tutorial on making a simple website with GitHub Pages
+title: Guglielmo Gattiglio's Research Webpage
+tagline: Guglielmo Gattiglio's Research Webpage
+description: Guglielmo Gattiglio's Research Webpage
 ---
 
-[Github Pages](https://pages.github.com) provide a simple way to make a
-website using
-[Markdown](https://daringfireball.net/projects/markdown/) and
-[git](https://git-scm.com).
+# Guglielmo Gattiglio
 
-For me, changew 1 the painful aspects of making a website are
 
-- Working with html and css
-- Finding a hosting site
-- Transferring stuff to the hosting site
 
-With [GitHub Pages](https://pages.github.com), you just write things in
-[Markdown](https://daringfireball.net/projects/markdown/),
-[GitHub](https://github.com) hosts the site for you, and you just push
-material to your GitHub repository with `git add`, `git commit`, and
-`git push`.
+<img style="float: right;width:20%" src="assets/misc/photo_guglielmo.jpg">I am a second year PhD student in the [Warwick Mathematics and Statistics CDT](https://warwick.ac.uk/fac/sci/fromas) under the joint supervision of Prof. Lyudmila Grigoryeva and Prof. Massimiliano Tamborrino. My current research direction focuses on generation of stochastic processes and learning of dynamical systems. I am also working on computational methods for Bayesian inference.
 
-If you love [git](https://git-scm.com/) and
-[GitHub](https://github.com), you'll love
-[GitHub Pages](https://pages.github.com), too.
+The most recent version of my CV is available [here](https://guglielmogattiglio.github.io/assets/misc/Guglielmo_Gattiglio_CV.pdf).
 
-The sites use [Jekyll](https://jekyllrb.com/), a
-[ruby](https://www.ruby-lang.org/en/) [gem](https://rubygems.org/), to
-convert Markdown files to html, and this part is done
-automatically when you push the materials to the `gh-pages` branch
-of a GitHub repository.
 
-The [GitHub](https://pages.github.com) and
-[Jekyll](https://jekyllrb.com) documentation is great, but I thought it
-would be useful to have a minimal tutorial, for those who just want to
-get going immediately with a simple site. To some readers, what GitHub
-has might be simpler and more direct.  But if you just want to create
-a site like the one you're looking at now, read on.
 
-Start by reading the [Overview page](pages/overview.html), which
-explains the basic structure of these sites. Then read
-[how to make an independent website](pages/independent_site.html). Then
-read any of the other things, such as
-[how to test your site locally](pages/local_test.html).
+**Contact**: Guglielmo [dot] Gattiglio [at] warwick [dot] ac [dot] uk
 
-- [Overview](pages/overview.html)
-- [Making an independent website](pages/independent_site.html)
-- [Making a personal site](pages/user_site.html)
-- [Making a site for a project](pages/project_site.html)
-- [Making a jekyll-free site](pages/nojekyll.html)
-- [Testing your site locally](pages/local_test.html)
-- [Resources](pages/resources.html)
 
-If anything here is confusing (or _wrong_!), or if I've missed
-important details, please
-[submit an issue](https://github.com/kbroman/simple_site/issues), or (even
-better) fork [the GitHub repository for this website](https://github.com/kbroman/simple_site),
-make modifications, and submit a pull request.
 
----
+### Education
 
-The source for this minimal tutorial is [on github](https://github.com/kbroman/simple_site).
+<div style="float:left;width:100%;"> <table class="table" style="white-space: nowrap;width:100%;">
+  <tbody>
+    <tr>
+      <td>2019 - 2021</td>
+      <td>MSc in Statistics, major in Data Science - Bocconi University<br>
+        <i>Thesis</i>: <em>Tempered Stochastic Search of Bayesian CART Models.<br>
+        </em><i>Supervisor</i>: Prof. Giacomo Zanella</td>
+    </tr>
+    <tr>
+      <td>2016 - 2019</td>
+      <td> BSc in Economics and Computer Science - Bocconi University<br>
+        <i>Thesis</i>: <em>Machine Learning for Imbalanced Data. <br>An Application to Customers Complaints.<br>
+        </em><i>Supervisor</i>: Prof. Daniele Durante</td>
+    </tr>
+    <tr>
+      <td>2019 - 2019</td>
+      <td>Exchange semester - Carnegie Mellon University, CMU</td>
+    </tr>
+  </tbody>
+</table>
+<div/>
 
-Also see my [tutorials](https://kbroman.org/tutorials) on
-[git/github](https://kbroman.org/github_tutorial),
-[GNU make](https://kbroman.org/minimal_make),
-[knitr](https://kbroman.org/knitr_knutshell),
-[R packages](https://kbroman.org/pkg_primer),
-[data organization](https://kbroman.org/dataorg),
-and [reproducible research](https://kbroman.org/steps2rr).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Presentations
+
+- [Generating Stochastic Processes using Echo State Networks and Maximum Mean Discrepancy](assets/misc/Lyudmila_sept_2022.pdf) - 14 December 2022 - a poster for the [AS&RU Partnership Day]([Partnership Day 2022 (warwick.ac.uk)](https://warwick.ac.uk/fac/sci/statistics/asru/registration-page-2022n/))  at the University of Warwick.
+
+- [Generating Stochastic Processes using Echo State Networks and Maximum Mean Discrepancy](assets/misc/Lyudmila_sept_2022.pdf) - 25 October 2022 - a poster for the [Young Researchers Meeting (YRM)](https://warwick.ac.uk/fac/sci/statistics/news/yrm/)  at the University of Warwick.
+
+
+
+### Teaching
+
+- EC140: *Mathematical Techniques B* - 2022 - University of Warwick, Department of Economics - bachelor level. 
+
+- ST111: *Probability A* - 2022 - University of Warwick,  Department of Statistics - bachelor level.
+
+-  ST112: *Probability B* - 2022 - University of Warwick,  Department of Statistics - bachelor level.
+
+- IB9CS: *Big Data Analytics* - 2022 - University of Warwick, Warwick Business School (WBS) - master level.
+
+- *Python Programming for Economics, Management and Finance* - 2020 - Bocconi University - bachelor level.
+
+
+
+
+
+
+
+[//]: # (Mathematical Techniques B module leader Alexander Dobson)
+
+
+
+<font size="2"> Last Updated 8 December 2022</font>
+
+
+
+
+

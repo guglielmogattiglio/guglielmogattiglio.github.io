@@ -2,7 +2,7 @@
 
 
 
-<img style="float: right;width:20%" src="assets/misc/photo_guglielmo.jpg">I am a second year PhD student in the [Warwick Mathematics and Statistics CDT](https://warwick.ac.uk/fac/sci/fromas) under the joint supervision of Prof. Lyudmila Grigoryeva and Prof. Massimiliano Tamborrino. My current research direction focuses on generation of stochastic processes and learning of dynamical systems. I am also working on computational methods for Bayesian inference.
+<img style="float: right;width:20%" src="assets/misc/photo_guglielmo.jpg">I am a second year PhD student in the [Warwick Mathematics and Statistics CDT](https://warwick.ac.uk/fac/sci/fromas) under the joint supervision of Prof. Lyudmila Grigoryeva. My current research direction focuses on generation of stochastic processes and learning of dynamical systems. I am also working on computational methods for Bayesian inference.
 
 The most recent version of my CV is available [here](https://guglielmogattiglio.github.io/assets/misc/Guglielmo_Gattiglio_CV.pdf).
 

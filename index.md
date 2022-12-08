@@ -10,7 +10,7 @@ website using
 [Markdown](https://daringfireball.net/projects/markdown/) and
 [git](https://git-scm.com).
 
-For me, the painful aspects of making a website are
+For me, changew 1 the painful aspects of making a website are
 
 - Working with html and css
 - Finding a hosting site

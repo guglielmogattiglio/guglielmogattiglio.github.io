@@ -51,7 +51,11 @@ The most recent version of my CV is available [here](https://guglielmogattiglio.
 
 ### Presentations
 
-- [NN-GParareal: Improving Scalability of GParareal Using Nearest Neighbours](assets/misc/NNGP_pres_StGallen) - 21 November 2023 - St. Gallen University.
+- [NN-GParareal: Improving Scalability of GParareal Using Nearest Neighbors](assets/misc/NNGP_pres_StGallen) - 21 November 2023 - St. Gallen University.
+- [Nearest Neighbor GParareal: Improving Scalability of Gaussian Processes for Parallel-in-Time Solvers](assets/misc/NNGP_pres_YRM) - 23 January 2024 - [Young Researchers Meeting (YRM)](https://warwick.ac.uk/fac/sci/statistics/news/yrm/), University of Warwick.
+- [Nearest Neighbor GParareal: Improving Scalability of Gaussian Processes for Parallel-in-Time Solvers](assets/misc/NNGP_Exeter_pres) - 31 January 2024 - [ExCALIBUR Workshop: Data Driven Algorithms](https://www.eventbrite.co.uk/e/excalibur-workshop-data-driven-algorithms-tickets-780794767167), University of Exeter.
+- [Nearest Neighbor GParareal: Improving Scalability of Gaussian Processes for Parallel-in-Time Solvers](assets/misc/NNGP_pres_Algorithms) - 8 February 2024 - [Algorithms & Computationally Intensive Inference seminar](https://warwick.ac.uk/fac/sci/statistics/news/algorithms-seminars/), University of Warwick.
+- [Nearest Neighbor GParareal: Improving Scalability of Gaussian Processes for Parallel-in-Time Solvers](assets/misc/NNGP_pres_DEDS24) - 20 February 2024 - [International Conference: Differential Equations for Data Science 2024 (DEDS2024)](https://scheme.hn/deds2024/).
 
 ### Posters
 

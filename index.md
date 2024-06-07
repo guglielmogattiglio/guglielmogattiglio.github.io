@@ -49,21 +49,32 @@ The most recent version of my CV is available [here](https://guglielmogattiglio.
 
 
 
+### Publications
+
+Please note that only the papers containing a *Publication* link have undergone peer-review.
+
+- G. Gattiglio and L. Grigoryeva and M. Tamborrino. *Nearest Neighbors GParareal: Improving Scalability of Gaussian Processes for Parallel-in-Time Solvers*, 2024. ([ArXiv](https://arxiv.org/abs/2405.12182))
+
+### Awards
+
+- Reproducibility award at the [Third BioInference Conference](https://bioinference.github.io/2024/), for [Nearest Neighbors GParareal: Improving Scalability of Gaussian Processes for Parallel-in-Time Solvers](https://github.com/Parallel-in-Time-Differential-Equations/Nearest-Neighbors-GParareal).
+
 ### Presentations
 
 - [NN-GParareal: Improving Scalability of GParareal Using Nearest Neighbors](assets/misc/NNGP_pres_StGallen.pdf) - 21 November 2023 - St. Gallen University.
 - [Nearest Neighbor GParareal: Improving Scalability of Gaussian Processes for Parallel-in-Time Solvers](assets/misc/NNGP_pres_YRM.pdf) - 23 January 2024 - [Young Researchers Meeting (YRM)](https://warwick.ac.uk/fac/sci/statistics/news/yrm/), University of Warwick.
 - [Nearest Neighbor GParareal: Improving Scalability of Gaussian Processes for Parallel-in-Time Solvers](assets/misc/NNGP_Exeter_pres.pdf) - 31 January 2024 - [ExCALIBUR Workshop: Data Driven Algorithms](https://www.eventbrite.co.uk/e/excalibur-workshop-data-driven-algorithms-tickets-780794767167), University of Exeter.
 - [Nearest Neighbor GParareal: Improving Scalability of Gaussian Processes for Parallel-in-Time Solvers](assets/misc/NNGP_pres_Algorithms.pdf) - 8 February 2024 - [Algorithms & Computationally Intensive Inference seminar](https://warwick.ac.uk/fac/sci/statistics/news/algorithms-seminars/), University of Warwick.
-- [Nearest Neighbor GParareal: Improving Scalability of Gaussian Processes for Parallel-in-Time Solvers](assets/misc/NNGP_pres_DEDS24.pdf) - 20 February 2024 - [International Conference: Differential Equations for Data Science 2024 (DEDS2024)](https://scheme.hn/deds2024/).
+- [Nearest Neighbor GParareal: Improving Scalability of Gaussian Processes for Parallel-in-Time Solvers](assets/misc/NNGP_pres_DEDS24.pdf) - 20 February 2024 - [International Conference: Differential Equations for Data Science 2024 (DEDS2024)](https://scheme.hn/deds2024/), online.
+- [RWParareal: a time-parallel PDE solver using Random Weights Neural Networks](assets/misc/RWPara_pres_Exeter_May24.pdf) - 1 May 2024 - [Met Office](https://www.metoffice.gov.uk/), Exeter, UK.
+- [Nearest Neighbors GParareal: Improving Scalability of Gaussian Processes for Parallel-in-Time Solvers](assets/misc/nnGPara_Bioinference_Warwick_June_2024.pdf) - 7 June 2024 - [Third BioInference Conference](https://bioinference.github.io/2024/), hosted by the University of Warwick.
 
 ### Posters
 
 - [Generating Stochastic Processes using Echo State Networks and Maximum Mean Discrepancy](assets/misc/Lyudmila_sept_2022.pdf) - 13 April 2023 - annual conference of the statistics Warwick department.
-
 - [Generating Stochastic Processes using Echo State Networks and Maximum Mean Discrepancy](assets/misc/Lyudmila_sept_2022.pdf) - 14 December 2022 - [AS&RU Partnership Day](https://warwick.ac.uk/fac/sci/statistics/asru/registration-page-2022n/), University of Warwick.
-
 - [Generating Stochastic Processes using Echo State Networks and Maximum Mean Discrepancy](assets/misc/Lyudmila_sept_2022.pdf) - 25 October 2022 - [Young Researchers Meeting (YRM)](https://warwick.ac.uk/fac/sci/statistics/news/yrm/), University of Warwick.
+- [Nearest Neighbor GParareal: Improving Scalability of Gaussian Processes for Parallel-in-Time Solvers](assets/misc/poster_prob_num_school_Apr_24.pdf) - 24 April 2024 - [Probabilistic Numerics Spring School Southampton 2024](https://probnumschool.org/pages/school.html)
 
 
 
@@ -97,7 +108,7 @@ The most recent version of my CV is available [here](https://guglielmogattiglio.
 
 
 
-<font size="2"> Last Updated 16 January 2024</font>
+<font size="2"> Last Updated 7 June 2024</font>
 
 
 

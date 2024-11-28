@@ -19,7 +19,7 @@ The most recent version of my CV is available [here](https://guglielmogattiglio.
   <tr>
       <td>2021 - 2025</td>
       <td>PhD in Statistics - University of Warwick (UK)<br>
-        </em><i>Supervisors</i>: Prof. Massimiliano Tamborrino and Lyudmila Grigoryeva</td>
+          <i>Supervisors</i>: Prof. Massimiliano Tamborrino and Lyudmila Grigoryeva</td>
     </tr>
     <tr>
       <td>2019 - 2021</td>

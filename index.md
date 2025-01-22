@@ -1,6 +1,34 @@
 # Guglielmo Gattiglio
 
+# Welcome to My Website!
 
+This is the old version of the website. Feel free to browse the content, but check out the new version as well!
+
+<!-- Pop-up HTML -->
+<div id="popup" style="visibility: hidden; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.5); display: flex; justify-content: center; align-items: center; z-index: 1000;">
+    <div id="popup-content" style="background: white; padding: 20px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); text-align: center;">
+        <p>This website has been moved to a new address. Visit the new version here:</p>
+        <p><a href="http://guglielmogattiglio.com" target="_blank">http://guglielmogattiglio.com</a></p>
+        <button id="popup-close" style="margin-top: 10px; padding: 10px 20px; background-color: #007BFF; color: white; border: none; border-radius: 4px; cursor: pointer;">Dismiss</button>
+    </div>
+</div>
+
+<!-- Pop-up JavaScript -->
+<script>
+    // Function to show the pop-up
+    window.onload = function() {
+        const popup = document.getElementById('popup');
+        const closeButton = document.getElementById('popup-close');
+
+        // Show the pop-up when the page loads
+        popup.style.visibility = 'visible';
+
+        // Close the pop-up when the "Dismiss" button is clicked
+        closeButton.addEventListener('click', function() {
+            popup.style.visibility = 'hidden';
+        });
+    };
+</script>
 
 <img style="float: right;width:20%" src="assets/misc/photo_guglielmo.jpg">I am a last-year PhD student in the [Warwick Mathematics and Statistics CDT](https://warwick.ac.uk/fac/sci/fromas) under the joint supervision of Prof. Lyudmila Grigoryeva and Prof. Massimiliano Tamborrino. My current research direction combines machine learning and parallel-in-time algorithms to solve differential equations numerically (Parareal). Recently, I have been working to extend this methods under the probabilistic numerics umbrella. In the past, I have worked on the generation of stochastic processes and learning of dynamical systems, and computational methods for Bayesian inference.
 

@@ -1,5 +1,7 @@
 # Guglielmo Gattiglio
 
+<meta http-equiv="refresh" content="0; url=http://guglielmogattiglio.com">
+
 # Welcome to My Website!
 
 This is the old version of the website. Feel free to browse the content, but check out the new version as well!
